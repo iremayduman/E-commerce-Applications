@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5nnc6QKlwAQNpV9LLXe7VtoIeffWNtxv8Idiv749vsfjhIr/zlnebkjd6To+qbBrODa1DFiQE6W+8Mdj4XEV4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umit\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\umit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
